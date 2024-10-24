@@ -1,0 +1,19 @@
+.button {
+    width: 100px;
+    height: 80px;
+    background-color: aquamarine;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.sectionListTask {
+    /* width: 700px; */
+    min-height: 500px;
+    height: auto;
+    background: linear-gradient(150deg, rgb(180, 74, 180), rgb(244, 112, 134));
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}

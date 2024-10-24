@@ -1,0 +1,26 @@
+.list__item {
+    display: flex;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(108, 37, 117);
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list__itemBlock {
+    width: 500px;
+    padding: 10px;
+    border-bottom: 2px solid rgb(255, 254, 254);
+    color: pink;
+    overflow: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.paragraf {
+    font-size: 2rem;
+    color: white;
+}

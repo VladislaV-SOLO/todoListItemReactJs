@@ -1,0 +1,11 @@
+.taskBlockAdd {
+    padding: 30px;
+    background-color: rgb(108, 37, 117);
+    border-radius: 20px;
+    margin: 50px;
+}
+
+.input:required:invalid ~ .btn {
+    opacity: .65;
+    pointer-events: none;
+}

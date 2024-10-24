@@ -1,0 +1,64 @@
+.btn {
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(180, 74, 180)t;
+    background-color: rgb(180, 74, 180);
+    border-radius: 10px;
+    box-shadow: 0px 0px 7px 2px rgb(244, 112, 134);
+    font-size: 1.5rem;
+    margin: 5px;
+    cursor: pointer;
+    color: white;
+}
+.btn:hover {
+    background-color: pink;
+    transform: scale(0.95);
+    color: black;
+}
+/* 
+.btn {
+    padding: 6px 12px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: rgb(188, 250, 229);
+    box-shadow: 0px 1px 5px 4px rgb(85, 139, 239);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    color: blue;
+}
+.btn:hover {
+    background-color: rgb(100, 250, 200);
+    transform: scale(0.95);
+    color: black;
+}
+.btn:active {
+    background-color: rgb(188, 250, 229);
+    transform: scale(0.9);
+    color: black;
+}
+
+.btn.danger {
+    background-color: orangered;
+}
+
+.primary {
+    background-color: rgb(82, 22, 137);
+    color: white;
+}
+
+.btn_m {
+    padding: 12px 16px;
+}
+
+.btn_l {
+    padding: 16px 24px;
+}
+
+.color-red {
+    color: red;
+}
+
+.temp {
+    background-color: greenyellow;
+} */
